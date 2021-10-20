@@ -13,7 +13,7 @@ yarn add @caisy/tsconfig -D
 	"compilerOptions": {
 		"outDir": "dist",
 		"rootDir": "./src",
-		//"target": "ES2021",
 	}
 }
+// add "target": "ES2021" in compilerOptions, if you want to target a different ES version
 ´´´
