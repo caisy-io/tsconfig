@@ -1,6 +1,6 @@
 {
 	"name": "@caisy/tsconfig",
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"repository": "git://github.com/caisy-io/tsconfig.git",
 	"main": "tsconfig.json",
 	"engines": {
