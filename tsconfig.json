@@ -3,8 +3,6 @@
     "types": ["jest", "node"],
     "allowJs": true,
     "noEmit": false,
-    "outDir": "dist",
-    "rootDir": "./src",
     "esModuleInterop": true,
     "skipLibCheck": true,
   }
