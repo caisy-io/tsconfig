@@ -1,9 +1,18 @@
 {
   "compilerOptions": {
-    "types": ["jest", "node"],
-    "allowJs": true,
-    "noEmit": false,
-    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
     "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "allowJs": true,
+    "sourceMap": true,
   }
 }
